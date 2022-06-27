@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dec51c5b-d377-49ac-8fc8-d2f7274da6ef": {
+      "ProjectGuid": "dec51c5b-d377-49ac-8fc8-d2f7274da6ef",
+      "DisplayName": "MovieSuggest",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
