@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\development\\movie_suggest\\backend\\MovieSuggest\\MovieSuggest\\MovieSuggest\\MovieSuggest.csproj": {}
+    "A:\\development\\github-repos\\moviesuggest\\backend\\moviesuggest-backend\\MovieSuggest\\MovieSuggest.csproj": {}
   },
   "projects": {
-    "A:\\development\\movie_suggest\\backend\\MovieSuggest\\MovieSuggest\\MovieSuggest\\MovieSuggest.csproj": {
+    "A:\\development\\github-repos\\moviesuggest\\backend\\moviesuggest-backend\\MovieSuggest\\MovieSuggest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\development\\movie_suggest\\backend\\MovieSuggest\\MovieSuggest\\MovieSuggest\\MovieSuggest.csproj",
+        "projectUniqueName": "A:\\development\\github-repos\\moviesuggest\\backend\\moviesuggest-backend\\MovieSuggest\\MovieSuggest.csproj",
         "projectName": "MovieSuggest",
-        "projectPath": "A:\\development\\movie_suggest\\backend\\MovieSuggest\\MovieSuggest\\MovieSuggest\\MovieSuggest.csproj",
+        "projectPath": "A:\\development\\github-repos\\moviesuggest\\backend\\moviesuggest-backend\\MovieSuggest\\MovieSuggest.csproj",
         "packagesPath": "C:\\Users\\flori\\.nuget\\packages\\",
-        "outputPath": "A:\\development\\movie_suggest\\backend\\MovieSuggest\\MovieSuggest\\MovieSuggest\\obj\\",
+        "outputPath": "A:\\development\\github-repos\\moviesuggest\\backend\\moviesuggest-backend\\MovieSuggest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -47,6 +47,10 @@
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.14.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

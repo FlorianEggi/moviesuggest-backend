@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "cuA/2pLZ5//900pzXZ2UeM1C+VvHF4vfeah0VixAejiXXz7XVia/rdBAtqCO/guDJAj2o8hWOO4svAyMilo6tw==",
+  "dgSpecHash": "XpCqAkT5UjE4stvEiTSakm+zIkgDGS+rhTTHjiYA7oFFyMKE5GszQkSmHoeAmEWJXfxYObB0tdv9DEXLxGdBQQ==",
   "success": true,
-  "projectFilePath": "A:\\development\\movie_suggest\\backend\\MovieSuggest\\MovieSuggest\\MovieSuggest\\MovieSuggest.csproj",
+  "projectFilePath": "A:\\development\\github-repos\\moviesuggest\\backend\\moviesuggest-backend\\MovieSuggest\\MovieSuggest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\flori\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\flori\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\flori\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "C:\\Users\\flori\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\flori\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\flori\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\flori\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
